@@ -1,0 +1,13 @@
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\bin\Debug\netcoreapp3.1\2DArray-1005.exe
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\bin\Debug\netcoreapp3.1\2DArray-1005.deps.json
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\bin\Debug\netcoreapp3.1\2DArray-1005.runtimeconfig.json
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\bin\Debug\netcoreapp3.1\2DArray-1005.runtimeconfig.dev.json
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\bin\Debug\netcoreapp3.1\2DArray-1005.dll
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\bin\Debug\netcoreapp3.1\2DArray-1005.pdb
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\obj\Debug\netcoreapp3.1\2DArray-1005.csprojAssemblyReference.cache
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\obj\Debug\netcoreapp3.1\2DArray-1005.AssemblyInfoInputs.cache
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\obj\Debug\netcoreapp3.1\2DArray-1005.AssemblyInfo.cs
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\obj\Debug\netcoreapp3.1\2DArray-1005.csproj.CoreCompileInputs.cache
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\obj\Debug\netcoreapp3.1\2DArray-1005.dll
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\obj\Debug\netcoreapp3.1\2DArray-1005.pdb
+C:\Users\gusts\source\repos\GitExample\2DArray-1005\2DArray-1005\obj\Debug\netcoreapp3.1\2DArray-1005.genruntimeconfig.cache
